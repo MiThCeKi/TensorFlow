@@ -1,4 +1,6 @@
 # What's new in TensorFlow 2.x
+THIS IS A PRACTICE EDIT USING GIT ON THE COMMAND LINE.
+THIS IS A SECOND EDIT USING GIT ON THE COMMAND LINE.
 
 The following are all the changes coming in TensorFlow 2.x. Let's have a closer look at them:
 
